@@ -73,7 +73,7 @@ FishCare-AI
 ## Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/FishCare-AI.git
+https://github.com/naji-technologia/FishCare-AI.git
 ```
 
 ---
